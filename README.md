@@ -1,1 +1,1 @@
-# AWS Sagemaker flight Price Prediction
+# End-to-End Machine Learning using AWS SageMaker Course
